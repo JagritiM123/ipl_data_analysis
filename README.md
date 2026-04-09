@@ -30,21 +30,12 @@ Top batters maintain dominance across multiple seasons
 Toss advantage is not decisive but situational
 Average runs per match have increased over time → more aggressive gameplay
 Number of matches varies by season due to league expansion
- Tech Stack
+ 
+Tech Stack
 Python 
 Pandas (Data Analysis)
 Matplotlib & Seaborn (Visualization)
 
- How to Run?
-Clone the repository
-
-Install dependencies:
-
-pip install pandas matplotlib seaborn
-
-Run the notebook:
-
-jupyter notebook
 
 
 
