@@ -24,14 +24,14 @@ Filtered only active IPL teams
 Removed irrelevant or inconsistent records
 
 
-Key Insights
+### Key Insights
 Some teams show consistently higher win rates, indicating strong long-term performance
 Top batters maintain dominance across multiple seasons
 Toss advantage is not decisive but situational
 Average runs per match have increased over time → more aggressive gameplay
 Number of matches varies by season due to league expansion
  
-Tech Stack
+### Tech Stack
 Python 
 Pandas (Data Analysis)
 Matplotlib & Seaborn (Visualization)
@@ -39,5 +39,3 @@ Matplotlib & Seaborn (Visualization)
 
 
 
-Jagriti Mohan
-Engineering Student | Data Analysis Enthusiast
